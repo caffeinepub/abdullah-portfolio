@@ -1,0 +1,29 @@
+{
+  "overview": "A futuristic, fully animated portfolio website for Muhammad Abdullah — Graphic Designer, AI Tools Creator, Content Creator, and Video Editor at TenBit Solutions. Features glassmorphism design, neon glow accents, scroll-triggered animations, typing hero section, skills progress circles, project gallery, experience timeline, and a contact form — all with a stunning dark theme.",
+  "features": [
+    "Glassmorphic navbar, cards, and panels with frosted blur and neon glow borders",
+    "Hero section with typing animation cycling through Graphic Designer, AI Tools Creator, Content Creator, Video Editor",
+    "Animated background with floating geometric shapes and parallax scrolling",
+    "Skills section with scroll-triggered circular neon progress meters for 12 skills",
+    "Projects gallery with 6 clients and hover scale + glow effects",
+    "Vertical glassmorphic experience timeline with scroll animations",
+    "Interests section with animated glassmorphic cards",
+    "Contact form with floating labels, client-side validation, and pulse glow effects",
+    "Fully responsive: mobile, tablet, and desktop layouts",
+    "Social media links with neon hover effects and scroll-to-top button"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "glassmorphism",
+    "dark-theme",
+    "animations",
+    "framer-motion",
+    "neon",
+    "futuristic",
+    "graphic-design",
+    "react",
+    "tailwind"
+  ],
+  "last_updated": "2026-04-07T17:41:40.256Z"
+}
